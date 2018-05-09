@@ -1,0 +1,24 @@
+{
+  "name": "wechaty-getting-started",
+  "version": "1.0.0",
+  "description": "Wechaty is super easy to use, especially when you are using Docker.    This repo contains the code about the video tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hylerrix/wechat-go.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hylerrix/wechat-go/issues"
+  },
+  "homepage": "https://github.com/hylerrix/wechat-go#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "wechaty": "^0.13.0"
+  }
+}
